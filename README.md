@@ -4,7 +4,7 @@ Excited to share my latest project - a comprehensive Rest House Management Syste
 
 Key Features:
 
-💻 User-Friendly Interface: Developed an intuitive interface using JFrame for seamless navigation.
+💻 User-Friendly Interface: Developed an intuitive interface using JFrame for seamless navigation.<br>
 📊 Database Integration: Utilized MySQL for efficient data storage, retrieval, and management.
 🛌 Booking and Reservation System: Implemented a robust system for guests to check availability, make reservations, and manage bookings.
 🧾 Billing and Invoicing: Automated billing system to generate accurate invoices based on room rates and additional services.
